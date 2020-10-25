@@ -1,0 +1,22 @@
+.formbody{
+    width:60%;
+    margin:auto;
+    margin-top: 200px;
+    background-color:royalblue;
+
+}
+
+.formcourse{
+   padding:20px;
+    border: 2px solid darkblue;
+    text-align: center;
+    color: white;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+.formbody span{
+    color: #e6e6f0;
+}
+.formcourse label{
+    color: white;
+}

@@ -1,0 +1,35 @@
+.container-fluid{
+    background-color: #ff1a40;
+    color: white;
+    height: 50px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+
+}
+.container-fluid h2{
+    float: left;
+    margin-left: 10%;
+    display: inline-block;
+}
+nav {
+    float: right;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li{
+    border: 2px solid #e65c00;
+    margin:4px 10px;
+    padding: 2px 6px 2px 6px ;
+
+}
+nav ul li a{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #e6e6f0;
+}
+nav ul li a:hover{
+    color: green;
+}

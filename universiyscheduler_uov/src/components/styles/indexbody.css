@@ -1,0 +1,73 @@
+.body{
+    margin-top: 50px;
+    text-align: center;
+    position: relative;
+}
+
+.body form{
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.body .card{
+    opacity: 0.2;
+    color: white;
+    top: 5%;
+    background-color: black;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+    position: absolute;
+
+}
+.body .btn-group button{
+    border: 2px solid white;
+    border-radius: 4px;
+    display: inline-block;
+    background-color: brown;
+    text-emphasis-style: circle;
+    font-size: 20px;
+    color: aliceblue;
+    margin:10px;
+    padding:10px;
+}
+form label{
+    color: white;
+    font-size: 20px;
+}
+form button .btn btn-primary{
+    background-color: brown;
+}
+.body .usererror{
+    display: none;
+    background-color: red;
+    position: absolute;
+    top: 5%;
+    float: left;
+    left: 0%;
+    font-size: 20px;
+    padding: 5px;
+    width: 100%;
+
+    color: white;
+}
+.error{
+
+    color: red;
+    text-align: left;
+    margin:0px;
+
+
+}
+
+.form .form-control{
+    color: green;
+    width:300px;
+}
+.form-control:focus {
+    background-color: #282c34;
+}
