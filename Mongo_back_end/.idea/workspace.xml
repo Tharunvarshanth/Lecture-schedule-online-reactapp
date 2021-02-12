@@ -19,7 +19,44 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6361cf69-dfa8-4750-a326-c0b56f05a5d9" name="Default Changelist" comment="" />
+    <list default="true" id="6361cf69-dfa8-4750-a326-c0b56f05a5d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/main/java/com/uni/log/schedule/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/main/java/com/uni/log/schedule/ScheduleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/main/java/com/uni/log/schedule/controller/ControllerRepositary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/main/java/com/uni/log/schedule/repo/CourseRepositary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/main/java/com/uni/log/schedule/repo/LectureRepositary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/main/java/com/uni/log/schedule/repo/StudentRepositary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/main/java/com/uni/log/schedule/table/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/main/java/com/uni/log/schedule/table/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/main/java/com/uni/log/schedule/table/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule/schedule/src/test/java/com/uni/log/schedule/ScheduleApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../universiyscheduler_uov/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../universiyscheduler_uov/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../universiyscheduler_uov/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/Lecture/FormAddUpdate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/Lecture/FormAddUpdate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/Lecture/TimeTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/Lecture/TimeTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/Student/ViewTimeTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/Student/ViewTimeTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/Table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/images/klnbuild.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/indexbody.js" beforeDir="false" afterPath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/indexbody.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/styles/ViewTimeTable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/styles/formaddupdate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/styles/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/styles/indexbody.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/styles/table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/src/components/styles/timetable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universiyscheduler_uov/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../universiyscheduler_uov/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +83,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.69" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../universiyscheduler_uov" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
@@ -68,6 +105,9 @@
       <workItem from="1603366138555" duration="2473000" />
       <workItem from="1603434762361" duration="2210000" />
       <workItem from="1603604980859" duration="4713000" />
+      <workItem from="1612789857804" duration="3874000" />
+      <workItem from="1612874897011" duration="207000" />
+      <workItem from="1612875120535" duration="321000" />
     </task>
     <servers />
   </component>
@@ -87,33 +127,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603609252964">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1612790940097">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1603609252964" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1603294280395">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1612790940097" />
+    <state width="1259" height="131" key="GridCell.Tab.0.bottom" timestamp="1612875444527">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603294280395" />
-    <state width="1259" height="131" key="GridCell.Tab.0.bottom" timestamp="1603610292496">
+    <state width="1259" height="131" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1612875444527" />
+    <state width="1259" height="131" key="GridCell.Tab.0.center" timestamp="1612875444527">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="131" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603610292496" />
-    <state width="1259" height="131" key="GridCell.Tab.0.center" timestamp="1603610292495">
+    <state width="1259" height="131" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1612875444527" />
+    <state width="1259" height="131" key="GridCell.Tab.0.left" timestamp="1612875444527">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="131" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603610292495" />
-    <state width="1259" height="131" key="GridCell.Tab.0.left" timestamp="1603610292495">
+    <state width="1259" height="131" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1612875444527" />
+    <state width="1259" height="131" key="GridCell.Tab.0.right" timestamp="1612875444527">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="131" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603610292495" />
-    <state width="1259" height="131" key="GridCell.Tab.0.right" timestamp="1603610292495">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="131" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603610292495" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1603605635668">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603605635668" />
+    <state width="1259" height="131" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1612875444527" />
   </component>
 </project>

@@ -1,5 +1,5 @@
-import React, {useEffect} from "react";
-import './styles/table.css'
+import React from "react";
+import '../styles/table.css'
 
 
 

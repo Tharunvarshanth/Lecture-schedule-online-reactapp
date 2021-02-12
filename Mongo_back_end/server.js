@@ -1,3 +1,4 @@
+/*
 var createError = require('http-errors');
 var express = require('express');
 const cors = require('cors');
@@ -15,6 +16,7 @@ app.use(function(req, res, next) {
 app.use(logger('dev'));
 app.use(express.json());
 
+
 app.use(
     express.urlencoded({
       extended: true
@@ -28,7 +30,7 @@ var getcourecode = require('./app/routes/GetCourseCode')
 var updateschedule = require('./app/routes/UpdateSchedule')
 var removeschedule = require('./app/routes/RemoveSchedule')
 var getyearlist = require('./app/routes/getyearlist')
-var gettimetablebyyear = require('./app/routes/gettimetablebyyear');
+
 
 app.use('/', indexRouter);
 app.use('/gettimetable',gett);
@@ -36,7 +38,7 @@ app.use('/getcoursecode',getcourecode);
 app.use('/updateschedule',updateschedule);
 app.use('/removeschedule',removeschedule);
 app.use('/academicyear',getyearlist);
-app.use('/gettimetablebyyear',gettimetablebyyear)
 
 
 module.exports = app;
+*/

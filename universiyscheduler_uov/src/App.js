@@ -2,22 +2,21 @@ import React ,{ Suspense, lazy } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch,Redirect } from 'react-router-dom';
+import Header from '../src/components/header'
 
-import Home from "./Home"
+import RouterConfig from "./navigation/RouterConfig";
 
-import LectureApp from "./components/Lecture/LectureApp";
-import ViewTimeTable from "./components/Student/ViewTimeTable";
+function  App(){
 
-const App = () => (
-    <Router>
-        <Suspense fallback={<div>Loading...</div>}>
-            <Switch>
-                <Route exact path="/" component={Home}/>
-                <Route path="/Lecture-Home"  component={LectureApp} />
-                <Route path="/View-TT"  component={ViewTimeTable} />
-            </Switch>
-        </Suspense>
-    </Router>
-);
+    return(
+        <>
+            <Header/>
+            <Router>
+               <RouterConfig/>
+           </Router>
+        </>
+    )
 
+
+}
 export default App;
